@@ -12,6 +12,7 @@ A few plugins to interact with the system are already implemented.
 - a wrapper around sqlite to enable websql
 - some interaction with a parent window (very partial)
 - file access
+- and even some android specific things concerning the play store (probably outdated though)
 
 
-This is a project I started a few years ago. The code in here should work, but dependencies and build files need to be recreated and updated.
+This is a project I started and abandoned a few years ago due to lack of time. Most of the code in here should work, but dependencies and build files need to be recreated and updated.
